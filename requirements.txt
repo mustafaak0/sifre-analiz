@@ -1,0 +1,1 @@
+# Bağımlılık yok — yalnızca Python standart kütüphanesi kullanılır.
